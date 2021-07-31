@@ -1,5 +1,10 @@
 # Entrega 03
 
+## Deploy :
+- https://entrega003.herokuapp.com/productos
+- https://entrega003.herokuapp.com/productosRandom
+
+
 ##  RUN : 🚗 
 
 ### Comando: 🎛️
